@@ -4682,6 +4682,36 @@
   checked: 2026-10-28
   searched:
   - search GitHub (repos, forks, issues/PRs), Nexus, ModDB and Reddit via web search, 2026-10-28
+- game: God of War Ragnarök
+  year: 2024
+  engine: Santa Monica Studio Kinetica
+  project: (none found)
+  url: ''
+  other_urls: []
+  kind: gap
+  status: none
+  coop_scope:
+    story: unknown
+    enemies: unknown
+    world_state: unknown
+    items: unknown
+  players: unknown
+  networking: unknown
+  open_source: unknown
+  last_activity: unknown
+  qa: none
+  notes: PC release year shown (console 2022). No public co-op/multiplayer mod found on GitHub, Nexus, or ModDB. Retail PC is single-player. Script loaders exist (Eiton/GoWR-Script-Loader MIT winmm.dll; GoWR MIO) for Lua and SMS visual scripts; same-engine GoW 2018 co-op prototype is documented under games/god-of-war-2018 but does not apply to GoWR.exe. Triage verdict build-from-zero (games/god-of-war-ragnarok).
+  sources:
+  - https://store.steampowered.com/app/2322010/God_of_War_Ragnarok/
+  - https://github.com/Eiton/GoWR-Script-Loader
+  - https://www.nexusmods.com/games/godofwarragnarok
+  - https://www.nexusmods.com/godofwarragnarok/mods/202
+  - https://www.moddb.com/games/god-of-war-ragnark/mods
+  - https://enginearchitecture.org/downloads/REAC_2024_SMS.pdf
+  - https://www.pcgamingwiki.com/wiki/God_of_War_Ragnar%C3%B6k
+  checked: 2026-11-10
+  searched:
+  - search this repo directory/games/PRs, upstream cranebeaker issues/PRs, GitHub repos, Nexus, ModDB, Steam/PCGW/Blog via web search, 2026-11-10; Reddit and Discord not checked
 - game: Horizon Zero Dawn
   year: 2020
   engine: Decima
